@@ -1,5 +1,5 @@
 body {
-  background-image: url("../img/bg.jpg");
+  background-image: url("../img/bg1.jpg");
 
   background-size: cover;
   margin: 0;
@@ -40,7 +40,7 @@ body {
     text-transform: uppercase;
   }
   .main-nav li a {
-    color: blanchedalmond;
+    color: black;
     text-decoration: none;
   }
   .main-nav li a:hover {

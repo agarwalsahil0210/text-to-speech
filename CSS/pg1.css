@@ -14,7 +14,7 @@ body {
   font-family: "Flamenco", cursive;
 }
 header {
-  background-image: url("../img/bg.jpg");
+  background-image: url("../img/bg1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -189,6 +189,7 @@ h1 {
   }
 }
 .main-nav {
+
   float: right;
   margin-top: 40px;
   height: 50px;
@@ -201,7 +202,7 @@ h1 {
   text-transform: uppercase;
 }
 .main-nav li a {
-  color: blanchedalmond;
+  color: black;
   text-decoration: none;
 }
 .main-nav li a:hover {
